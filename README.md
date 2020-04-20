@@ -1,6 +1,6 @@
 # Glacier Fronts
 
-Glacier Fronts is a `fastai v1` (PyTorch) port of [FrontLearning]() - a convolutional neural network used to detect glacier calving margins in Greenland, originally implemented using Keras.
+Glacier Fronts is a `fastai v1` (PyTorch) port of [FrontLearning](https://github.com/yaramohajerani/FrontLearning) - a convolutional neural network used to detect glacier calving margins in Greenland, originally implemented using Keras.
 
 **This is an initial port only and has not yet been tuned.**
 
